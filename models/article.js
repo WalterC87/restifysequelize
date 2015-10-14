@@ -2,7 +2,8 @@ module.exports = function (sequelize, DataTypes){
 	var Article = sequelize.define("Article",{
 		title: DataTypes.STRING,
 		slug: DataTypes.STRING,
-		content: DataTypes.TEXT
+		content: DataTypes.TEXT,
+		totalcomments: DataTypes.INTEGER
 	},{
 		classMethods: {
 			associate: function (models){

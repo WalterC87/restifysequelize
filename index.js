@@ -30,7 +30,7 @@ server.get({path: "/articles/:id", version: "1.0.0"}, controllers.article.viewAr
 // server.del("/comments/:id", controllers.comment.deleteComment);
 // server.get("/comments/:id", controllers.comment.viewComment);
 
-// models.sequelize.sync();
+models.sequelize.sync();
 
 var port = process.env.PORT || 3000;
 
