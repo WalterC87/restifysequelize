@@ -12,3 +12,8 @@ http://sequelize.readthedocs.org/en/1.7.0/articles/express/
 
 https://github.com/sequelize/express-example/blob/master/migrations/20141003120222-create-user.js
 https://github.com/manjeshpv/node-restify-mysql-sequelize/blob/master/app.js
+
+http://gregtrowbridge.com/getting-started-with-sequelize-and-the-sequelize-cli/
+http://stackoverflow.com/questions/27835801/how-to-auto-generate-migrations-with-sequelize-cli-from-sequelize-models
+http://stackoverflow.com/questions/21105748/sequelize-js-how-to-use-migrations-and-sync
+https://github.com/sequelize/sequelize/issues/313
