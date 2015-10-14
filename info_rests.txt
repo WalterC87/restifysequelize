@@ -1,0 +1,14 @@
+http://restify.com/
+http://code.tutsplus.com/tutorials/restful-api-design-with-nodejs-restify--cms-22637
+http://code.tutsplus.com/tutorials/token-based-authentication-with-angularjs-nodejs--cms-22543
+http://thejackalofjavascript.com/nodejs-restify-mongolab-build-rest-api/
+
+
+http://code.tutsplus.com/es/tutorials/token-based-authentication-with-angularjs-nodejs--cms-22543
+http://www.kdelemme.com/2014/03/09/authentication-with-angularjs-and-a-node-js-rest-api/
+
+http://docs.sequelizejs.com/en/latest/docs/migrations/#addcolumntablename-attributename-datatypeoroptions-options
+http://sequelize.readthedocs.org/en/1.7.0/articles/express/
+
+https://github.com/sequelize/express-example/blob/master/migrations/20141003120222-create-user.js
+https://github.com/manjeshpv/node-restify-mysql-sequelize/blob/master/app.js
